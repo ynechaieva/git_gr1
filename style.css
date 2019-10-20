@@ -1,0 +1,14 @@
+p{
+    font-size: 40px;
+    font-family: "Comic Sans MS", Arial, sans-serif;
+    color: beige;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 30px auto;
+    width: 400px;
+    text-align: center;
+}
+
+body{
+    background-color: lightskyblue;
+}
